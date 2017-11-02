@@ -2,3 +2,4 @@
 /src/app/*.js
 *.map
 /src/main.js
+/package-lock.json
