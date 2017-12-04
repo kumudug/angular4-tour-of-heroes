@@ -3,3 +3,4 @@
 *.map
 /src/main.js
 /package-lock.json
+/dist
